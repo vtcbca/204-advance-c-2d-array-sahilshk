@@ -1,4 +1,5 @@
 Write a program to enter two 3*3 matrix and perform matrix multiplication.
+Author: Shaikh Sahil
 Date : 02-03-22*/
 #include<stdio.h>
 #include<conio.h>
